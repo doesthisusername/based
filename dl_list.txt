@@ -1,0 +1,3 @@
+regex:.*\.dll
+regex:.*/Config/[^/]*\.ini
+HatinTimeGame/CookedPC/Startup.upk
